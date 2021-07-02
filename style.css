@@ -1,1 +1,7 @@
 /* Add a stylesheet */
+h1{
+    color: skyblue;
+}
+ol li {
+    color: steelblue;
+}
